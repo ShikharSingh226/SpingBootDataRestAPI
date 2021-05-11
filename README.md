@@ -1,3 +1,3 @@
 # SpingBootDataRestAPI
 
-This Rest API is buid using Spring framework and Springboot
+This Rest API is build using Spring framework and Springboot
